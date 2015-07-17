@@ -66,6 +66,5 @@ void draw ()
       fill (0);
       text (i[a],a*20,500);
     }
-  }  
-  delay (100);
+  } 
 }  
